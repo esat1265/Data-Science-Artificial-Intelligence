@@ -1,0 +1,3 @@
+# Data-Science-Artificial-Intelligence
+
+All of DataScience AI lecutred that i have learned. Any many projects that have realised will be uploaded soon....
